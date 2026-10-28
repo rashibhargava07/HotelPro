@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro | Hotel Booking & Management System",
+  "description": "Enterprise boutique hotel reservations, multi-role guest, staff, manager and admin dashboards, dynamic pricing, and housekeeping management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
